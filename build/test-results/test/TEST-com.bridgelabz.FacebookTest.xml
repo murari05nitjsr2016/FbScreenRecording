@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.FacebookTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-18T09:55:28" hostname="DESKTOP-EC2GNO7" time="20.139">
+  <properties/>
+  <testcase name="loginTo_Application_with_valid_credentials" classname="com.bridgelabz.FacebookTest" time="20.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
